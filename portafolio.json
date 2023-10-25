@@ -36,7 +36,7 @@
     },
     {
         "nombre": "A los ojos del Ajo",
-        "fotos": ["https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310", "https://picsum.photos/id/252/500/310"],
+        "fotos": ["https://picsum.photos/id/252/500/310", "https://raw.githubusercontent.com/feliferba7/clase11img/main/Img11/ajo1.webp", "https://picsum.photos/id/252/500/310"],
         "soporte": "fashion",
         "abstract": "Abstracción artística del impacto de plantar un ajo en un ecosistema determinado.",
         "texto": "Tras una documentación en bitácora, se analizó cómo un evento, a primera instancia tan banal como plantar un ajo, en realidad genera impacto en su entorno. El ajo se vuelve un agente de cambio en su ecosistema, en este caso el huerto de mi casa, entendiendo los demás actores no solo como las demás plantas sino también bichos, animales y humanos. De este análisis fue rescatado el impacto que tuvo en mí (angustiante), en mis gatos (curiosos, juguetones), en mi mamá (atenta, amante de las plantas) y en la maleza (muerte, arrancada para no interferir con el ajo) y se dio bajada a una reflexión creativa materializada en piezas de indumentaria."
@@ -50,7 +50,7 @@
     },
     {
         "nombre": "Infografías y otros",
-        "fotos": ["https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
+        "fotos": ["https://picsum.photos/id/237/500/310", "https://picsum.photos/id/464/500/310", "https://picsum.photos/id/464/500/310"],
         "soporte": "digital",
         "abstract": "Visualización y comparación de datos",
         "texto": "Aquí puedes ver otros formatos y ejemplos de cómo mediante la combinación de colores, imágenes, tipografías, símbolos, elementos y jerarquías, expongo la visualización de datos así como también tablas de análisis que permitan comparar ordenadamente distintas situaciones. Estas son bajadas a extensos levantamientos de información que luego filtro ordenadamente para determinar lo esencial. Constantemente pongo énfasis en ejecutar la composición de las distintas herramientas gráficas de manera que resulte en visuales llamativas al ojo y que comuniquen en una primera impresión, el carácter del tema que se toca."
